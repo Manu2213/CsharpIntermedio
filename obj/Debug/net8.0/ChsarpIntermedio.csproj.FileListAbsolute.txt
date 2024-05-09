@@ -1,0 +1,14 @@
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\bin\Debug\net8.0\ChsarpIntermedio.exe
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\bin\Debug\net8.0\ChsarpIntermedio.deps.json
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\bin\Debug\net8.0\ChsarpIntermedio.runtimeconfig.json
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\bin\Debug\net8.0\ChsarpIntermedio.dll
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\bin\Debug\net8.0\ChsarpIntermedio.pdb
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\obj\Debug\net8.0\ChsarpIntermedio.GeneratedMSBuildEditorConfig.editorconfig
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\obj\Debug\net8.0\ChsarpIntermedio.AssemblyInfoInputs.cache
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\obj\Debug\net8.0\ChsarpIntermedio.AssemblyInfo.cs
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\obj\Debug\net8.0\ChsarpIntermedio.csproj.CoreCompileInputs.cache
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\obj\Debug\net8.0\ChsarpIntermedio.dll
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\obj\Debug\net8.0\refint\ChsarpIntermedio.dll
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\obj\Debug\net8.0\ChsarpIntermedio.pdb
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\obj\Debug\net8.0\ChsarpIntermedio.genruntimeconfig.cache
+F:\Yo\Documentos\Programacion\C#\ChsarpIntermedio\obj\Debug\net8.0\ref\ChsarpIntermedio.dll

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|f:\\yo\\documentos\\programacion\\c#\\chsarpintermedio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|f:\\yo\\documentos\\programacion\\c#\\chsarpintermedio\\02-ienumerable-ienumerator-parte_1\\servicios\\tienda\\serviciostiendadeautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|solutionrelative:02-ienumerable-ienumerator-parte_1\\servicios\\tienda\\serviciostiendadeautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|f:\\yo\\documentos\\programacion\\c#\\chsarpintermedio\\02-ienumerable-ienumerator-parte_1\\tiendadeautos\\iautomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|solutionrelative:02-ienumerable-ienumerator-parte_1\\tiendadeautos\\iautomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|f:\\yo\\documentos\\programacion\\c#\\chsarpintermedio\\02-ienumerable-ienumerator-parte_1\\servicios\\tienda\\iserviciotiendadeautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|solutionrelative:02-ienumerable-ienumerator-parte_1\\servicios\\tienda\\iserviciotiendadeautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|f:\\yo\\documentos\\programacion\\c#\\chsarpintermedio\\02-ienumerable-ienumerator-parte_1\\servicios\\auto\\serviciosdeautomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|solutionrelative:02-ienumerable-ienumerator-parte_1\\servicios\\auto\\serviciosdeautomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|f:\\yo\\documentos\\programacion\\c#\\chsarpintermedio\\02-ienumerable-ienumerator-parte_1\\servicios\\auto\\iserviciodeautomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|solutionrelative:02-ienumerable-ienumerator-parte_1\\servicios\\auto\\iserviciodeautomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|f:\\yo\\documentos\\programacion\\c#\\chsarpintermedio\\02-ienumerable-ienumerator-parte_1\\tiendadeautos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|solutionrelative:02-ienumerable-ienumerator-parte_1\\tiendadeautos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|f:\\yo\\documentos\\programacion\\c#\\chsarpintermedio\\02-ienumerable-ienumerator-parte_1\\gestionartienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F5ED6D-8931-4492-B1FB-9FBE03D506AE}|ChsarpIntermedio.csproj|solutionrelative:02-ienumerable-ienumerator-parte_1\\gestionartienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAutomovil.cs",
+              "DocumentMoniker": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\TiendaDeAutos\\IAutomovil.cs",
+              "RelativeDocumentMoniker": "02-IEnumerable-IEnumerator-parte_1\\TiendaDeAutos\\IAutomovil.cs",
+              "ToolTip": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\TiendaDeAutos\\IAutomovil.cs",
+              "RelativeToolTip": "02-IEnumerable-IEnumerator-parte_1\\TiendaDeAutos\\IAutomovil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:44:12.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServicioDeAutomovil.cs",
+              "DocumentMoniker": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\Servicios\\Auto\\IServicioDeAutomovil.cs",
+              "RelativeDocumentMoniker": "02-IEnumerable-IEnumerator-parte_1\\Servicios\\Auto\\IServicioDeAutomovil.cs",
+              "ToolTip": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\Servicios\\Auto\\IServicioDeAutomovil.cs",
+              "RelativeToolTip": "02-IEnumerable-IEnumerator-parte_1\\Servicios\\Auto\\IServicioDeAutomovil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:42:44.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiciosDeAutomovil.cs",
+              "DocumentMoniker": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\Servicios\\Auto\\ServiciosDeAutomovil.cs",
+              "RelativeDocumentMoniker": "02-IEnumerable-IEnumerator-parte_1\\Servicios\\Auto\\ServiciosDeAutomovil.cs",
+              "ToolTip": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\Servicios\\Auto\\ServiciosDeAutomovil.cs",
+              "RelativeToolTip": "02-IEnumerable-IEnumerator-parte_1\\Servicios\\Auto\\ServiciosDeAutomovil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:42:20.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServicioTiendaDeAutos.cs",
+              "DocumentMoniker": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\Servicios\\Tienda\\IServicioTiendaDeAutos.cs",
+              "RelativeDocumentMoniker": "02-IEnumerable-IEnumerator-parte_1\\Servicios\\Tienda\\IServicioTiendaDeAutos.cs",
+              "ToolTip": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\Servicios\\Tienda\\IServicioTiendaDeAutos.cs",
+              "RelativeToolTip": "02-IEnumerable-IEnumerator-parte_1\\Servicios\\Tienda\\IServicioTiendaDeAutos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:30:11.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\TiendaDeAutos\\Auto.cs",
+              "RelativeDocumentMoniker": "02-IEnumerable-IEnumerator-parte_1\\TiendaDeAutos\\Auto.cs",
+              "ToolTip": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\TiendaDeAutos\\Auto.cs",
+              "RelativeToolTip": "02-IEnumerable-IEnumerator-parte_1\\TiendaDeAutos\\Auto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:27:39.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiciosTiendaDeAutos.cs",
+              "DocumentMoniker": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\Servicios\\Tienda\\ServiciosTiendaDeAutos.cs",
+              "RelativeDocumentMoniker": "02-IEnumerable-IEnumerator-parte_1\\Servicios\\Tienda\\ServiciosTiendaDeAutos.cs",
+              "ToolTip": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\Servicios\\Tienda\\ServiciosTiendaDeAutos.cs",
+              "RelativeToolTip": "02-IEnumerable-IEnumerator-parte_1\\Servicios\\Tienda\\ServiciosTiendaDeAutos.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDMAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:09:59.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestionarTienda.cs",
+              "DocumentMoniker": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\GestionarTienda.cs",
+              "RelativeDocumentMoniker": "02-IEnumerable-IEnumerator-parte_1\\GestionarTienda.cs",
+              "ToolTip": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\02-IEnumerable-IEnumerator-parte_1\\GestionarTienda.cs",
+              "RelativeToolTip": "02-IEnumerable-IEnumerator-parte_1\\GestionarTienda.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:30:59.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Yo\\Documentos\\Programacion\\C#\\ChsarpIntermedio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:21:14.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
